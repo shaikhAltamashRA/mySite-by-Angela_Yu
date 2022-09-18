@@ -1,0 +1,123 @@
+body{
+margin: 0;
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    
+    background-color:#EAF6F6 ;
+}
+.cloud2{
+    position: absolute;
+    bottom: 300px;
+    left: 220px;
+   
+}
+.cloud1{
+
+    position: absolute;
+    top: 50px;
+    right: 250px;
+   
+}
+h1{
+font-size: 6.6rem;
+font-family: "Brush Script MT", cursive;
+   margin-bottom: 0; 
+   color: #66bfbf;
+   font-weight: 800;
+}
+
+
+span{
+    text-decoration: underline;
+}
+.selfpic {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+margin-top: 20px;
+}
+   
+  h2 {
+color: #66bfbf;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+            
+
+
+h3{
+    color: #1C6758;
+}
+.skill-row{
+
+    line-height: 2;
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.frontend{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+    clear: both;
+    
+}
+.backend{
+    width: 25%;
+    float: right;
+    margin-left: 20px;    
+    clear: both;
+  }
+  
+  hr{
+   
+ border: none;  
+ width: 5%;
+    
+ border-bottom: 10px dotted #66bfbf;
+}
+.contact{
+display: block;
+    background-color: #1C6758;
+    color: white;
+    font-weight: bolder;
+    padding: 15px;
+    width: 13%;
+    margin: auto;
+    border-radius: 10px;
+}
+.cp{
+    font-weight: bold;
+    width: 50%;
+    margin: 25px auto;
+}
+.bottom-container{
+margin: 20px auto;
+    background-color:  #1C6758;
+    color: white;
+    padding: 30px;
+}
+ a{
+    text-decoration: none;
+    color: white;
+   
+}
+.innerbc{
+    width: 50%;
+    margin: auto;
+}
+.innerbc a{
+display: inline-block;
+width: 30%;
+    color: #11999E;
+    
+    
+    
+}
